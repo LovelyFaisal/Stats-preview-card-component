@@ -40,8 +40,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-htmlcss-flexbox-A3nYKXpyKt](https://www.frontendmentor.io/solutions/stats-preview-card-component-htmlcss-flexbox-A3nYKXpyKt)
+- Live Site URL: [Stats preview card component](https://lovelyfaisal.github.io/Stats-preview-card-component/)
 
 ## My process
 
